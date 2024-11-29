@@ -39,5 +39,5 @@ case $EXT in
         ;;
 esac
 chmod +x blog-run.sh
-./blog-run.sh brains.workbook
+
 
